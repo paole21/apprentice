@@ -2,9 +2,8 @@
 
 ## アプレンティスシップ選考期間
 
- :::note 
+ **warning**
  最終期限　10/4（水）
- :::
 
  <details><summary>学習フロー</summary>
 
