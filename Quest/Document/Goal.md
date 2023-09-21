@@ -1,7 +1,7 @@
 # 学習計画
 
 ## アプレンティスシップ選考期間
- ** 最終期限　10/4（水）** 
+ **\ 最終期限　10/4（水）** 
  <details><summary>学習フロー</summary>
 
  * 10/21~23 - Linux Quest
@@ -12,9 +12,10 @@
 
  </details>
  
+ 
 ## アプレンティスシップWebテストを通過した場合
 
- <details><summary> **課題内容に基づいた学習** </summary>
+ <details><summary>課題内容に基づいた学習</summary>
 
  
  </details>
