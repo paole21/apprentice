@@ -1,6 +1,6 @@
 ## シェルスクリプトを書くことができる
 
-1. Hello
+### 1.Hello
 ```Bash
 $ cat << EOF >> say_hello.sh
 #!/bin/bash
@@ -12,7 +12,7 @@ $ chmod +x ./say_hello.sh \
 ; ./say_hello.sh
 ```
 
-2. 標準入力から値を受け取る
+### 2.標準入力から値を受け取る
 ```Bash req_name.sh
 #!/bin/bash
 
@@ -22,7 +22,7 @@ read ans
 echo "Welcome, $ans!"
 ```
 
-3. 条件分岐
+### 3.条件分岐
 ```Bash calculator.sh
 #!/bin/bash
 
@@ -61,7 +61,7 @@ else
 fi
 ```
 
-4. 繰り返し処理
+### 4.繰り返し処理
 ```Bash up_to_100.sh
 #!/bin/bash
 
