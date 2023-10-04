@@ -10,6 +10,11 @@
 $ git branch pullrequest ; git checkout pullrequest
 $ git add "任意の変更" ; git commit -m "This's a commit for pullrequest"
 $ git push origin pullrequest
-...
+```
+
+### 3. ローカルへのリモートリポジトリの変更内容の取り込み
+```Bash
+$ git checkout main
+$ git pull origin main
 $ git branch -d pullrequest
 ```
